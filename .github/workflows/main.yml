@@ -1,4 +1,4 @@
-name: TDD
+name: TDD_lektion_4_Frontend_Jest_Test/TDD_lektion_4_Frontend_Jest_Test
 
 on:
   # Trigger the workflow on push to the 'main' branch
