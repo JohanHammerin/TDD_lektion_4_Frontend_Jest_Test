@@ -1,4 +1,4 @@
-name: TDD_Lektion_4_Frontend_Jest_Test
+name: FR_test_11_actions
 
 on:
  # Trigger the workflow on push to the 'main' branch
@@ -42,5 +42,4 @@ jobs:
 
      # Run Tests
      - name: Run tests
-       run: npm test
- 
+       run: npm test 
